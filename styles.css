@@ -2,6 +2,9 @@
 /* Your CSS Code here. */
 .table{
 	border-collapse:collapse;
-	padding:%;
+	 border-collapse: collapse;
+ width:50%;
+ 
+  background-color: #f7c3c1;
 	
 }
